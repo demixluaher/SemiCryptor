@@ -1,5 +1,4 @@
 try:
-    import requests
     import base64
     import zlib
     import os
