@@ -1,9 +1,6 @@
-try:
-    import base64
-    import zlib
-    import os
-except:
-    print(" - Please install requirements.txt")
+import base64
+import zlib
+import os
 
 os.mkdir("semicrypt")
 os.chdir("semicrypt")
